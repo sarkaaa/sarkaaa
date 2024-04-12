@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=24&pause=1000&color=CA2248&repeat=false&random=true&width=435&lines=Hi+there!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 **sarkaaa/sarkaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
