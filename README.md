@@ -18,7 +18,7 @@ Hi, my name is Šárka and I'm currently working as a QA engineer, but in my spa
 
 
 
-## Tools
+## 🔧 Tools
 
 ### Languages & frameworks
 
