@@ -59,5 +59,5 @@ Hi, my name is Šárka and I'm currently working as a QA engineer, but in my spa
 
 
 ## 📫 Contact
-Feel free to ping me on my e-mail address or on [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/sarkachwastkova/)
+Feel free to ping me on my email address or [LinkedIn](https://www.linkedin.com/in/sarkachwastkova/).
 
